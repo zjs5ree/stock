@@ -125,4 +125,4 @@ python main.py --output=csv
 ```shell
 python main.py --reload=N --portfolio=Y
 ```
-通过更改测试文件中的选股策略公式，可以随意测试指定时间范围内的选股效果。test<br>
+通过更改测试文件中的选股策略公式，可以随意测试指定时间范围内的选股效果。<br>
